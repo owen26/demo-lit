@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "ES2015",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "jsx": "react",
+    "lib": ["es5", "es6", "dom"],
+    "experimentalDecorators": true
+  },
+  "include": ["./src/**/*"],
+  "awesomeTypescriptLoaderOptions": {
+    "reportFiles": ["./src/**/*"]
+  }
+}

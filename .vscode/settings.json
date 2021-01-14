@@ -1,0 +1,6 @@
+{
+  "eslint.workingDirectories": [
+    { "directory": "cra", "changeProcessCWD": true },
+    { "directory": "vanilla", "changeProcessCWD": true }
+  ]
+}
